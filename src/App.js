@@ -10,7 +10,15 @@ function getImageList() {
   return [
     "images/image01.jpg",
     "images/image02.jpg",
-    "images/image3.jpg"
+    "images/image03.jpg",
+    "images/image04.jpg",
+    "images/image05.jpg",
+    "images/image06.jpg",
+    "images/image07.jpg",
+    "images/image08.jpg",
+    "images/image09.jpg",
+    "images/image10.jpg",
+    "images/image11.jpg"
   ];
 }
 
