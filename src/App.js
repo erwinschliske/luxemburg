@@ -39,7 +39,7 @@ export default function App() {
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', marginTop: 40 }}>
-      <h1>Bilder Slideshow</h1>
+      <h1>Unser Trip ins schöne Luxemburg</h1>
       <img
         src={images[current]}
         alt={`Bild ${current + 1}`}
