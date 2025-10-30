@@ -1,0 +1,8 @@
+- [x] Projektanforderungen geklärt: React Web-App, die alle Bilder aus public/images lädt und im Abstand von 5s durchlaufen lässt.
+- [x] Projektstruktur erstellt: public/, src/, package.json, README.md, .github/copilot-instructions.md
+- [x] Projekt angepasst: Slideshow-Komponente in src/App.js implementiert
+- [ ] Erweiterungen: Keine benötigt
+- [ ] Kompilierung: npm install & npm start
+- [ ] Task erstellen/ausführen: Nicht erforderlich
+- [ ] Projekt starten: npm start
+- [x] Dokumentation: README.md und copilot-instructions.md vorhanden
