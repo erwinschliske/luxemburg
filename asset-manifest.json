@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/luxemburg/static/js/main.3124280e.js",
+    "main.js": "/luxemburg/static/js/main.ff81e2bc.js",
     "index.html": "/luxemburg/index.html",
-    "main.3124280e.js.map": "/luxemburg/static/js/main.3124280e.js.map"
+    "main.ff81e2bc.js.map": "/luxemburg/static/js/main.ff81e2bc.js.map"
   },
   "entrypoints": [
-    "static/js/main.3124280e.js"
+    "static/js/main.ff81e2bc.js"
   ]
 }
