@@ -8,6 +8,7 @@ function getImageList() {
   // Alternativ kann man die Dateinamen dynamisch generieren oder aus einer API laden
   // Für die Demo nehmen wir Platzhalter
   return [
+    "images/image00.jpg",
     "images/image01.jpg",
     "images/image02.jpg",
     "images/image03.jpg",
